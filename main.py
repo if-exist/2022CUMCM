@@ -1,0 +1,1 @@
+['Na2O_0', 'SO2_0', 'CuO_0', 'SnO2_0', 'K2O_0', 'PbO_1', 'SrO_0', 'Fe2O3_0', 'Fe2O3_1', 'MgO_0', 'Al2O3_1', 'BaO_0', 'MgO_1', 'P2O5_0', 'Al2O3_0', 'CaO_1', 'SiO2_2', 'SiO2_0', 'K2O_1', 'P2O5_1', 'Na2O_1', 'CaO_2', 'CaO_0', 'CuO_1', 'SrO_1', 'SiO2_1', 'PbO_0', 'PbO_2', 'BaO_2', 'BaO_1']
